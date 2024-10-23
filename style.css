@@ -1,0 +1,80 @@
+html, body {
+  background-color: black;olor: white;
+  font-family: "Hind Siliguri", serif;
+  margin: 1px;
+  margin-bottom: 30px;
+}
+
+header{
+  font-family: "Bungee Tint", sans-serif;
+  color:green;
+  display: flex;
+  border-bottom: solid 1px white;
+  position: relative;
+  margin: 20px;
+  font-size: 80px;
+}
+
+p{
+  text-align: justify;
+}
+.inicio{
+  background:rgb(1,116,1);
+  margin: 20px; 
+  padding: 20px;
+  display: flex;
+  font-size: 30px;
+  position: relative;
+  border-radius: 50px;
+  box-shadow:2px 5px 5px gray;
+}
+
+.episodio{
+  margin-right: 50px;
+}
+
+.alinha{
+  align-content: center;
+}
+
+.clipes{
+  display:flex;
+  overflow-x: auto;
+  gap:10px
+}
+
+img{
+  height: 200px;
+}
+
+.outros{
+  paddding-left: 20px;
+  padding-right:20px;
+  font-size: 30px;
+  color: rgb(191,233,182);
+  font-weight: 700;
+}
+
+.outros img{
+  opacity: 1.5;
+}
+
+.outros img:houver{
+  opacity:1.0;
+  border: 3px solid pink;
+  box-shadow: px 5px 5px grey;
+}
+
+
+header img{
+  position:relative;
+  z-index: -1;
+  margin-left:400px;
+}
+
+
+
+FOOSTER{
+  font-family: "Bungee Tint", sans-serif;
+  color:white(134)
+}
